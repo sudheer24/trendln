@@ -34,7 +34,7 @@ setup(
     description='Support and Resistance Trend lines Calculator for Financial Analysis',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/GregoryMorse/trendln',
+    url='https://github.com/sudheer424/trendln',
     author='Gregory Morse',
     author_email='gregory.morse@live.com',
     license='MIT',
